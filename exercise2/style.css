@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
+* {
+    font-family: 'Domine', serif;
+}
+
+
+.rounded-pill {
+    background-color: whitesmoke;
+}
+
+
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
